@@ -1,1 +1,1 @@
-# app-that-detect-dyslexia
+# app-that-detect-dysgraphia
